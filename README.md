@@ -10,7 +10,6 @@
 - 🌱 I’m diving deeper into **full-stack development** and exploring **cybersecurity tools** and best practices.
 - 🧩 I enjoy solving challenging problems and turning abstract ideas into working code.
 - I enjoy doing more of back-end programming comapared to font-end.
-- 🔭 I’m currently building the **Anonymous Counselling System (ACS)** — an Android app focused on real-time anonymous counselling using PHP, MySQL, Node.js, and MongoDB.
 
 
 ---
