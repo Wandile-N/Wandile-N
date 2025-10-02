@@ -9,7 +9,7 @@
 
 - 🌱 I’m diving deeper into **full-stack development** and exploring **cybersecurity tools** and best practices.
 - 🧩 I enjoy solving challenging problems and turning abstract ideas into working code.
-- I enjoy doing more of back-end programming comapared to front-end.
+- I enjoy doing more of back-end programming compared to front-end.
 
 
 ---
